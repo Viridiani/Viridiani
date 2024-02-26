@@ -1,10 +1,9 @@
 <h1>Welcome!</h1>
-<h3>I'm Avery (or @Viridiani) and I'm an aspiring coder/software developer. I'll be posting a fair portion of my projects here.</h3>
+<h3>I'm Avery (or @Viridiani). Most of my projects are on here, although a fair few reside on my website as well. </h3>
+<br>
+<h4>Feel free to reach out!</h4>
 <br>
 <p>she/her<br>averychristie50@gmail.com</p>
-
-<br>
-<em>Yeehaw</em>
 <!--
 **Viridiani/Viridiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
